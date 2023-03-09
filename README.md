@@ -1,5 +1,5 @@
 # AppSinger
-iOS企业签名  QQ 453255376, WeChat 453255376。
+iOS企业签名  QQ 453255376, WeChat 453255376。收iOS企业开发者账号
 
 
 Need assistance with accessing your developer account ?
